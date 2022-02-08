@@ -27,4 +27,4 @@ https://ja-lourenco.github.io/to-doList/
 
 #### Autores
 
-- [@JA-Lourenco](https://github.com/JA-Lourenco)
+[@JA-Lourenco](https://github.com/JA-Lourenco)
