@@ -3,10 +3,6 @@
 Uma lista de tarefas onde podemos utilizar um campo para inserir, marcar e 
 excluir as pendências do cotidiano.
 
-#### Autores
-
-- [@JA-Lourenco](https://github.com/JA-Lourenco)
-
 #### Tecnologias
 
 - HTML5
@@ -29,4 +25,6 @@ https://ja-lourenco.github.io/to-doList/
 - JSON básico
 - Arrays: push, splice e indexOf
 
+#### Autores
 
+- [@JA-Lourenco](https://github.com/JA-Lourenco)
