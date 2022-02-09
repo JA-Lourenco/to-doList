@@ -28,3 +28,8 @@ https://ja-lourenco.github.io/to-doList/
 #### Autores
 
 [@JA-Lourenco](https://github.com/JA-Lourenco)
+
+<br>
+
+![image](https://user-images.githubusercontent.com/93841387/153110402-db5fe233-58e8-456a-a30b-669de97def75.png)
+
